@@ -1,5 +1,5 @@
 {
-  "live_ad": "admob",
+  "live_ad": "facebook",
   "admob": {
     "app_id": "ca-app-pub-3940256099942544~3347511713",
     "interstitial": "ca-app-pub-3940256099942544/1033173712",
