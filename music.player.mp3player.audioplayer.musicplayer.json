@@ -1,13 +1,13 @@
 {
-  "live_ad": "admob",
+  "live_ad": "facebook",
   "admob": {
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "native_advance": "ca-app-pub-3940256099942544/2247696110",
+    "app_id": "",
+    "interstitial": "",
+    "native_advance": "",
     "app_open_ad": ""
   },
   "facebook": {
-    "interstitial": "",
-    "native_advance": ""
+    "interstitial": "526058468625001_526670348563813",
+    "native_advance": "526058468625001_526670828563765"
   }
 }
