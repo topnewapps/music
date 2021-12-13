@@ -1,10 +1,10 @@
 {
-  "live_ad": "facebook",
+  "live_ad": "admob",
   "admob": {
-    "app_id": "",
-    "interstitial": "",
-    "native_advance": "",
-    "app_open_ad": ""
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "interstitial": "/22405025169,22479221618/music.player.mp3player.audioplayer.musicplayer.Interstitial",
+    "native_advance": "/22405025169,22479221618/music.player.mp3player.audioplayer.musicplayer.Native",
+    "app_open_ad": "/22405025169,22479221618/music.player.mp3player.audioplayer.musicplayer.AppOpen"
   },
   "facebook": {
     "interstitial": "526058468625001_526670348563813",
