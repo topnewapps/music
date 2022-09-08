@@ -4,7 +4,7 @@
     "app_id": "ca-app-pub-3940256099942544~1458002511",
     "interstitial": "/21753324030,22663697097/music.player.mp3player.audioplayer.musicplayer_Interstitial",
     "native_advance": "/21753324030,22663697097/music.player.mp3player.audioplayer.musicplayer_Native",
-    "app_open_ad": ""
+    "app_open_ad": "/21753324030,22663697097/music.player.mp3player.audioplayer.musicplayer_Appopen"
   },
   "facebook": {
     "interstitial": "526058468625001_526670348563813",
