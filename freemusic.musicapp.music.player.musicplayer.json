@@ -2,9 +2,9 @@
   "live_ad": "admob",
   "admob": {
     "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "interstitial": "/22405025169,22479221618/freemusic.musicapp.music.player.musicplayer.Interstitial",
-    "native_advance": "/22405025169,22479221618/freemusic.musicapp.music.player.musicplayer.Native",
-    "app_open_ad": "/22405025169,22479221618/freemusic.musicapp.music.player.musicplayer.AppOpen"
+    "interstitial": "/21753324030,22663697097/freemusic.musicapp.music.player.musicplayer_Interstitial",
+    "native_advance": "/21753324030,22663697097/freemusic.musicapp.music.player.musicplayer_Native",
+    "app_open_ad": "/21753324030,22663697097/freemusic.musicapp.music.player.musicplayer_AppOpen"
   },
   "facebook": {
     "interstitial": "296956551955557_296957368622142",
