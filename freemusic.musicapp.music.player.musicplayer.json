@@ -1,10 +1,10 @@
 {
   "live_ad": "admob",
   "admob": {
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "interstitial": "/21753324030,22663697097/freemusic.musicapp.music.player.musicplayer_Interstitial",
-    "native_advance": "/21753324030,22663697097/freemusic.musicapp.music.player.musicplayer_Native",
-    "app_open_ad": "/21753324030,22663697097/freemusic.musicapp.music.player.musicplayer_AppOpen"
+    "app_id": "ca-app-pub-8336757635393356~1536038792",
+    "interstitial": "ca-app-pub-8336757635393356/7881901396",
+    "native_advance": "ca-app-pub-8336757635393356/6070126278",
+    "app_open_ad": "ca-app-pub-8336757635393356/4725255012"
   },
   "facebook": {
     "interstitial": "296956551955557_296957368622142",
